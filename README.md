@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**harrishsrinivasan/harrishsrinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- B.Tech CSE (Data Science) student at **SRM Institute of Science and Technology**
+- Detail-oriented and passionate about solving real-world problems using data
+- Strong foundation in **SQL**, **Machine Learning**, and **Data Analysis**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Languages**: Python, SQL  
+- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn  
+- **Core Areas**:  
+  - Data preprocessing & visualization  
+  - ML model building (classification & regression)  
+  - Basic **Natural Language Processing** (TF-IDF, tokenization)
+
+---
+
+## 📌 Interests
+
+- Real-world data science projects  
+- ML model optimization  
+- Exploring NLP applications
+
+---
+
+## 📫 Connect with Me
+
+- **Email**: [neelmeg68@gamil.com]  
+- **LinkedIn**: [https://www.linkedin.com/in/harrish-srinivasan-b5baa1a9/]  
