@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+# About Me
 
 - B.Tech CSE (Data Science) student at **SRM Institute of Science and Technology**
 - Detail-oriented and passionate about solving real-world problems using data
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Skills
+## Skills
 
 - **Languages**: Python, SQL  
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn  
@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Interests
+## Interests
 
 - Real-world data science projects  
 - ML model optimization  
@@ -25,7 +25,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **Email**: [neelmeg68@gamil.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/harrish-srinivasan-b5baa1a9/]  
