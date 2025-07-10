@@ -2,13 +2,13 @@
 
 - B.Tech CSE (Data Science) student at **SRM Institute of Science and Technology**
 - Detail-oriented and passionate about solving real-world problems using data
-- Strong foundation in **SQL**, **Machine Learning**, and **Data Analysis**
+- Strong foundation in **Machine Learning**, **SQL**and **Data Analysis**
 
 ---
 
 ## Skills
 
-- **Languages**: Python, SQL  
+- **Languages**: C, C++, Java, Python, SQL  
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn  
 - **Core Areas**:  
   - Data preprocessing & visualization  
