@@ -27,5 +27,5 @@
 
 ## Connect with Me
 
-- **Email**: [neelmeg68@gamil.com]  
+- **Email**: [harrishsrinivasan68@gamil.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/harrish-srinivasan-b5baa1a9/]  
