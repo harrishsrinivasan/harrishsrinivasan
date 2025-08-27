@@ -7,7 +7,7 @@ Hi, I’m Harrish Srinivasan
 
 ---
 
-###  Socials  
+##  Socials  
 <p align="left">
   <a href="https://www.linkedin.com/in/harrish-srinivasan-b5baa1a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
