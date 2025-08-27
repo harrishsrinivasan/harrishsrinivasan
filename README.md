@@ -7,8 +7,7 @@
 
 ---
 
-## 📫 Socials  
-
+### 📫 Socials  
 <p align="left">
   <a href="https://www.linkedin.com/in/harrish-srinivasan-b5baa1a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +19,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+### 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
 <p align="left">
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>  
-
----
 
 ### 📊 ML / Data Science Libraries  
 <p align="left">
@@ -43,9 +40,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>  
 
----
-
-## 🛠️ Tools  
+### 🛠️ Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
